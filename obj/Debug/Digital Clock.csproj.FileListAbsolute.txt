@@ -1,0 +1,10 @@
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\bin\Debug\Digital Clock.exe.config
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\bin\Debug\Digital Clock.exe
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\bin\Debug\Digital Clock.pdb
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\obj\Debug\Digital Clock.csproj.AssemblyReference.cache
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\obj\Debug\Digital Clock.exe
+D:\Nord Koulutus\C#\C# Codes\Digital Clock\obj\Debug\Digital Clock.pdb
